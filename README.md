@@ -1,13 +1,4 @@
-# primeiro_termo
-Material de aula para o 1° termo - LOPAL - SOP - ARI - LER
 
-## LOPAL 
-Lógica de programação em Python
-
-## SOP
-Sistemas operacionais 
-
-# Resumo Executivo: Do Levantamento de Requisitos à Infraestrutura IoT
 
 Este documento consolida os fundamentos essenciais de quatro pilares da tecnologia: Engenharia de Requisitos, Lógica de Programação, Sistemas Operacionais e Arquitetura de Redes/IoT.
 
