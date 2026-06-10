@@ -27,7 +27,7 @@ lbl_titulo_pagina2.grid(row=2, column=2, padx=10, pady=10)
 
 
 lbl_biblioteca_usuario = tk.Label(biblioteca_bemvindo, text="Digite seu nome :)")
-lbl_biblioteca_usuario.grid(row=5, column=0, pady=10, padx=10)
+lbl_biblioteca_usuario.grid(row=1, column=0, pady=10, padx=10)
 
 lbl_biblioteca_idade = tk.Label(biblioteca_bemvindo, text="Título do livro :) ")
 lbl_biblioteca_idade.grid(row=6, column=0, pady=10, padx=10)
@@ -39,10 +39,10 @@ lbl_biblioteca_pais.grid(row=7, column=0, pady=10, padx=10)
 
 # Entrys
 usuario_nome = tk.Entry(biblioteca_bemvindo, font=("Arial", 15), width=30)
-usuario_nome.grid(row=0, column=1, pady=10, padx=10)
+usuario_nome.grid(row=1, column=1, pady=10, padx=10)
 
 usuario_idade = tk.Entry(biblioteca_bemvindo, font=("Arial", 15), width=30)
-usuario_idade.grid(row=1, column=1, pady=10, padx=10)
+usuario_idade.grid(row=2, column=2, pady=10, padx=10)
 
 
 # Componentes de ComboBox
